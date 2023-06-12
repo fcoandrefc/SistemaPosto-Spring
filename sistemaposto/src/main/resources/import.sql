@@ -1,0 +1,1 @@
+insert into tab_clientes (cpf,nome) values ('359.592.533.20','Andre Felix');
